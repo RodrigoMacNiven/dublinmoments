@@ -1,0 +1,11 @@
+.navbar{
+    background-color: black;
+}
+
+.navbar a{
+    color: aliceblue;
+}
+
+.navbar .logout{
+    cursor: pointer;
+}
